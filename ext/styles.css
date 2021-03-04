@@ -1,0 +1,277 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap');
+
+body {
+  background: #c7cae2;
+  font-size: 14px;
+  line-height: 22px;
+  color: #363a59;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  font-family: "Rubik", sans-serif;
+}
+
+.bold {
+  font-weight: 700;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+.padding {
+  padding: 25px 0;
+}
+
+.user-center {
+  position: relative;
+  text-align: center;
+  padding: 7px 0;
+  border-radius: 10px;
+  border-bottom: 2px solid #363a59;
+}
+
+.semi-bold {
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.main {
+  width: 800px;
+  height: auto;
+  display: flex;
+  margin: 50px auto;
+}
+
+.main .left {
+  width: 280px;
+  background: #1e1d40;
+}
+
+.main .left .profile {
+  width: 100%;
+  height: 280px;
+}
+
+.main .left .profile img {
+  width: 100%;
+  height: 100%;
+}
+
+.main .left .content {
+  padding: 0 25px;
+}
+
+.main .title {
+  margin-bottom: 20px;
+}
+
+.main .left .bold {
+  color: #f6e001;
+}
+
+.main .left .regular {
+  color: white;
+}
+
+.main .item {
+  padding: 25px 0;
+  border-bottom: 2px solid #363a59;
+}
+
+.main .left .item:last-child,
+.main .right .item:last-child {
+  border-bottom: 0px;
+}
+
+.main .left ul li {
+  display: flex;
+  margin-bottom: 10px;
+  align-items: center;
+}
+
+.main .left ul li:last-child {
+  margin-bottom: 0;
+}
+
+.main .left ul li .icon {
+  width: 35px;
+  height: 35px;
+  background: #363a59;
+  color: white;
+  border-radius: 30%;
+  margin-right: 15px;
+  font-size: 16px;
+  position: relative;
+}
+
+.main .icon i,
+.main .right .hobby ul li i {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.main .left ul li .data {
+  color: white;
+}
+
+.main .left .skills ul li {
+  display: flex;
+  margin-bottom: 10px;
+  color: white;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.main .left .skills ul li .skill-name {
+  font-weight: 500;
+  width: 25%;
+}
+
+.main .left .skills ul li .progress {
+  width: 60%;
+  margin: 0 5px;
+  height: 7px;
+  border-radius: 20px;
+  background: #363a59;
+  position: relative;
+}
+
+.main .left .skills ul li .percent {
+  font-weight: 500;
+  width: 15%;
+}
+
+.main .left .skills ul li .progress span {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  border-radius: 20px;
+  background: #d6d6d6;
+}
+
+.main .left .social .semi-bold {
+  color: white;
+  margin-bottom: 2px;
+}
+
+.main .right {
+  width: 520px;
+  background: #f2f2fc;
+  padding: 25px;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.main .right .bold {
+  color: #1e1d40;
+}
+
+.main .right .work ul,
+.main .right .education ul {
+  padding-left: 40px;
+  overflow: hidden;
+}
+
+.main .right ul li {
+  position: relative;
+}
+
+.main .right ul li .date {
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 15px;
+}
+
+.main .right ul li .info {
+  margin-bottom: 20px;
+}
+
+.main .right ul li:last-child .info {
+  margin-bottom: 0;
+}
+
+.main .right .work ul li:before,
+.main .right .education ul li:before {
+  content: "";
+  position: absolute;
+  top: 5px;
+  left: -25px;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  border: 2px solid #1e1d40;
+}
+
+.main .right .work ul li:after,
+.main .right .education ul li:after {
+  content: "";
+  position: absolute;
+  top: 14px;
+  left: -21px;
+  width: 2px;
+  height: 115px;
+  background: #1e1d40;
+}
+
+.main .right .hobby ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+.main .right .hobby ul li {
+  width: 57px;
+  height: 57px;
+  border: 3px solid #1e1d40;
+  border-radius: 15px;
+  position: relative;
+  color: #1e1d40;
+}
+
+.main .right .hobby ul li i {
+  font-size: 30px;
+}
+
+.main .right .hobby ul li:before {
+  content: "";
+  position: absolute;
+  top: 25px;
+  right: -85px;
+  width: 85px;
+  height: 3px;
+  background: #1e1d40;
+}
+
+.main .right .hobby ul li:last-child:before {
+  display: none;
+}
+
+/* Button */
+
+.btn a {
+  display: block;
+  background: #1e1d40;
+  color: white;
+  padding: 13px;
+  cursor: pointer;
+  text-decoration: none;
+  width: 215px;
+  text-align: center;
+  border-radius: 50px;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.padd-btn {
+  text-align: center;
+  padding: 15px 100px 18px 125px;
+}
+
+.btn a:hover {
+  background: #363a59;
+}
