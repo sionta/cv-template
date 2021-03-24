@@ -1,8 +1,8 @@
 # CV or Resume - Simply Template
-
+## Preview
 > ![preview](https://i.imgur.com/u9GwWKe.jpg)
 
-# README!
+## README!
 >
 > - Based HTML and CSS, simple, free and open source!
 > - Thank you [Font Awesome 5](https://fontawesome.com/icons?d=gallery) for the free icons
