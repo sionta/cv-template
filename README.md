@@ -1,4 +1,5 @@
-![preview](https://i.imgur.com/u9GwWKe.jpg)
+![preview](https://github.com/kybo15/cv_simply/blob/master/img/preview.jpg)
+
 # Simply Template
 This is a template simple for CV or Resume.
 
