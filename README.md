@@ -4,11 +4,11 @@
     <img src="https://img.shields.io/badge/Updated-2021/08/23-blue.svg?longCache=true&style=popout-round"/>
 </div>
 
-<h3 align="center">Simply Template <strong> This is a template simple for CV or Resume.</strong></h3>
+<h3 align="center"><strong> This is a template simple for CV or Resume, Based HTML and CSS, simple, free and open source!.</strong></h3>
 
 <div align="center"> <img src="./img/preview.jpg"/></div>
 
-## Intro
+## Description
 - Based HTML and CSS, simple, free and open source!
 
 ## How to started
