@@ -1,4 +1,4 @@
-<h1 align="center">Simply Template</h1>
+<h1 align="center">Template  Based HTML and CSS (SimplyCV)</h1>
 
 <div align="center">
     <img src="https://img.shields.io/badge/Updated-2021/08/23-blue.svg?longCache=true&style=popout-round"/>
@@ -8,15 +8,13 @@
 
 <div align="center"> <img src="./img/preview.jpg"/></div>
 
-## Description
-- Based HTML and CSS, simple, free and open source!
 
-## How to started
-- To get started, just click [`Use this template`](https://github.com/kybo15/cv-template/generate) _or_ [`Clone`](https://github.com/kybo15/cv_simply.git)
-- Open and edit with any Text Editor, Highly recommended to use [Visual Studio Code](https://code.visualstudio.com/)
-
-## Thanks to
-- Thank you [Font Awesome 5](https://fontawesome.com/icons?d=gallery) for the free icons
-
- ## Donate
+# Donate
 - [Paypal](paypal.me/kybo15)
+
+# Usage
+- To get started **PLEASE DO NOT FORK** just `Use this template` or direct [click here](https://github.com/kybo15/cv-template/generate).
+- Edit with any Text Editor, Highly recommended to use [Visual Studio Code](https://code.visualstudio.com/)
+
+# Thanks
+- Thank [Font Awesome 5](https://fontawesome.com/icons?d=gallery) for the free icons
