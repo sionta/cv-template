@@ -1,4 +1,4 @@
-<h1 align="center">Template  Based HTML and CSS (SimplyCV)</h1>
+<h1 align="center">Template based HTML and CSS</h1>
 
 <div align="center">
     <img src="https://img.shields.io/badge/Updated-2021/08/23-blue.svg?longCache=true&style=popout-round"/>
@@ -9,7 +9,7 @@
 <div align="center"> <img src="./img/preview.jpg"/></div>
 
 # Usage
-- To get started **PLEASE DON'T FORK** just `Use this template` or direct link **[here](https://github.com/kybo15/cv-template/generate)**.
+- To get started **PLEASE DON'T FORK** just `Use this template` or direct link **[here](https://github.com/0x5df/cv-template/generate)**.
 - Edit with any Text Editor, Highly recommended to use [Visual Studio Code](https://code.visualstudio.com/).
 
 # Donate
