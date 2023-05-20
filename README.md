@@ -8,12 +8,14 @@
 
 <div align="center"> <img src="./img/preview.jpg"/></div>
 
-# Usage
+# [Demo](https://sionta.github.io/cv-template/)
+
+## Usage
 - To get started **PLEASE DON'T FORK** just `Use this template` or direct link **[here](https://github.com/0x5df/cv-template/generate)**.
 - Edit with any Text Editor, Highly recommended to use [Visual Studio Code](https://code.visualstudio.com/).
 
-# Donate
+## Donate
 - <h3 align="left"><a href="https://www.paypal.com/paypalme/kybo15">PayPal</a></h3>
 
-# Thanks
+## Thanks
 - Thank [Font Awesome 5](https://fontawesome.com/icons?d=gallery) for the free icons
